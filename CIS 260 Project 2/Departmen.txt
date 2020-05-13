@@ -1,0 +1,6 @@
+                           CIS Department
+
+Employee ID  Employee Salary  
+-----------  ---------------  
+12345        25000.00         
+1432         12000.00         
